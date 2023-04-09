@@ -5,6 +5,10 @@ Learning Topics:
 - Intro to Concurrency
     - Goroutine
     - Race Condition
+    - Memory Access Synchronization
+        - Deadlocks
+	    - Livelocks
+	    - Starvation
 
 
 ---
